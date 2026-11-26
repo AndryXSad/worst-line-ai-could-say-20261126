@@ -3,3 +3,4 @@ kit.tar.gz
 kit.json
 competition.json
 BUILD-REPORT.md
+__pycache__/
